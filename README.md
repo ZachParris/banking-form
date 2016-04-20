@@ -32,7 +32,7 @@
 
 ### Screenshots:
 
-![Bank-Form.jpg](https://github.com/ZachParris/banking-form/blob/master/img)
+![Bank-Form.jpg](https://github.com/ZachParris/banking-form/blob/master/img/Bank-Form.jpg)
 
 
 
